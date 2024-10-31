@@ -2,7 +2,6 @@ import React from "react";
 import Carousel from "react-bootstrap/Carousel";
 
 const CarouselContainer = ({ items }) => {
-  console.log(items);
   return (
     <div>
       <Carousel>
